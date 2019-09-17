@@ -2,3 +2,12 @@
 test_hash:
   b: b in localhost.yml
   d: d in localhost.yml
+  nested_hash:
+    f: f in localhost.yml
+    g: g in localhost.yml
+  nested_listed_hash:
+    - h: h_2 in localhost.yml
+    - h: h_3 in localhost.yml
+  nested_nested_hash:
+    j: j in localhost.yml
+    k: k in localhost.yml

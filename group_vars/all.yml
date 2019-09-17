@@ -3,3 +3,12 @@ test_hash:
   a: a in all.yml
   b: b in all.yml
   c: c in all.yml
+  nested_hash:
+    e: e in all.yml
+    f: f in all.yml
+  nested_listed_hash:
+    - h: h_1 in all.yml
+    - h: h_2 in all.yml
+  nested_nested_hash:
+    i: i in all.yml
+    j: j in all.yml
