@@ -1,1 +1,4 @@
 ---
+test_hash:
+  b: b in localhost.yml
+  d: d in localhost.yml
