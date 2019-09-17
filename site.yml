@@ -1,0 +1,7 @@
+---
+- name: display hash
+  hosts: all
+  tasks:
+    - debug:
+        var: test_hash
+  gather_facts: no

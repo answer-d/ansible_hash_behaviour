@@ -1,0 +1,5 @@
+---
+test_hash:
+  a: a in all.yml
+  b: b in all.yml
+  c: c in all.yml
