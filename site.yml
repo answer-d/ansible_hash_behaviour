@@ -5,3 +5,6 @@
     - debug:
         var: test_hash
   gather_facts: no
+  vars:
+    test_hash:
+      a: a in play vars
